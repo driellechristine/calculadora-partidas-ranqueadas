@@ -1,4 +1,3 @@
-from random import randint
 #=============================Calcular saldo de vitorias=============================#
 def calcularSaldo(vitorias,derrotas):
     saldoVitorias = vitorias - derrotas
